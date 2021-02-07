@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pmvcalculator-304117",
+  "private_key_id": "16a25badba46e7e5d3f4489173df496e8c390a04",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCJo8DLO95iKdOX\ng5nzoLIziKVGcCmHvq5ndlDfEpaOGDT0KPa0o7aLE8xshF4OV7e1lozT37YzeCD5\neWrk2Ozb+fbMMGy5Z+RZgxAr44PIJwUaDZ5G96t2UyPXYRwrCPGx9KKWrU04cLml\nzJpRA0JsfD7+zFKCHfrNzuV+MEDn+GAvEMLwvesc7wyjJRRYdtRLf15rC5Fy2+nb\nxheZUtPQCW9J3rG3cLnpvhg3UIl529N5TbQHmNKGRwhm2QVms4waIHRqZ7e5IkYq\nJJh34TC2C8KRXnjGP0z6tiGQr9WianRQ/uLwm2DDtN/zbM5Z+TuCxp/yWFqc7h/u\n+vj1xdmFAgMBAAECggEAGhFFZjhEedrqE/v8oEOC/HeYtapwcyEN7tJdpqHima7D\n+Kn5b2TCIbzyLmszVQwP4vhMW6Q24bCSrizsrcLXuSGyOCHDtamTedB0s5s3TiT1\ntmV14ILvmk1MsHHX396lx8pJMLhJs7LFtjz1zPoNDnbJh4Ay8Cm1Yl0Y4blJ0aTV\nl/6OHmmrhYgaUM5dcAdJIdYs84/vMhf9LP1pqojXe+9ldBJseARPnHZBeG0YTEvC\nVTF0bkUoTI4nnSBSDhGY5zINyGOS+W0C7mHUYAVanto9SxQ2oak/WQHHJxn39Sr8\naOcrsCa8PKK9kBlDHcUXgJs/h09GIO2oJBZe12UzgQKBgQC89QwxGeW2t1eAt1+8\nvXrb0hsFoI0a/G1GrrXebnVwIf0uUvhHL1lbhJHEU20KohZZVxQ0elpvAyFlUEPF\n9e6q8+zv0gTyy7WHSeLQZYMIwRfm0amUEqT5snh3CfN2bC0mMI9N9+Oe+Gh7b84X\nf18NynmKeizg4pP3hDX9pQK6TQKBgQC6eYpXp/0K6lfxDFg62IPTU1+WN98t5xAG\nKCR2ttEjOxCZAPe662f6zQDPVq1HCysQWReOkpLRCbzbiJm4QUF6FuCqviSoxiea\nQhZUSPKaYZahJWYm/lnfExZPWEPGcC1EefU4laq2wIMLmiq7/SpyPjnGoN4PYVaW\nmifW+oxIGQKBgQCR5vUfBMwnJbJfJTi7V+OB0N4kni/WYotORKERu2Da0KPaHR6w\neJMa42ZancBYsYdoPKDRVJh3l4c136A1Pwym2+pb02MWxszIRfjoyTlAjTiTddjn\nCO5yD6iM4hYnnqfOETjWD06m9VBX36DW6/bNg0YN8wCsNMfkGyZFUCCnEQKBgQCo\nG64WPAGpd350dtaLpmmheAYyXIg8z5PomQPWahW8lyDtbqvmvRZuSaYzRUbNR0o5\nYLgV9hmZjhfOKiW6sEmhEULVarmN1aYaMP4EWgcsGlI7UIX5HVBUBNcWDNJ88OA+\nXVwu+O5/9qmtKfzgoOlFOMfJQ3ktkGkJOEw2SIVy8QKBgE6Uz/XKEOvSH/tVf5LU\nAjffN1O9mm8gAZov1yl3VEUtXupBNkBDADpillKVyT+iDHe196ua+zN/x+oQ44m4\nvp1e2IJXN7/UjBPPBzB/titboJl6RIQNw0Mi6TNCJP44qN4gKOnPLjPylBS7OzKj\ndZnJSMXoijELihqRl3pw4gvw\n-----END PRIVATE KEY-----\n",
+  "client_email": "pmvcalculator@pmvcalculator-304117.iam.gserviceaccount.com",
+  "client_id": "100680787936719681371",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pmvcalculator%40pmvcalculator-304117.iam.gserviceaccount.com"
+}
